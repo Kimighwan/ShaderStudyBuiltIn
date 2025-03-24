@@ -39,7 +39,7 @@ Material:
     - _Green: 0.406
     - _Metallic: 0
     - _Red: 0.518
-    - _lerpTest: 0.552
+    - _lerpTest: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _TestColor: {r: 0.3741728, g: 1, b: 0.013207495, a: 1}
