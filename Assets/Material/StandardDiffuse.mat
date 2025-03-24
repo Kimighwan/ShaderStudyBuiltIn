@@ -29,10 +29,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Glossiness: 0.988
+    - _Glossiness: 0.973
     - _Metallic: 0
-    - _MySliderValue: 0.63
+    - _MySliderValue: 0
     m_Colors:
-    - _AmbientColor: {r: 1, g: 0.98979574, b: 0, a: 1}
+    - _AmbientColor: {r: 1, g: 0.15644112, b: 0, a: 1}
     - _Color: {r: 1, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
